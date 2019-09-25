@@ -7,7 +7,7 @@ Train yourself in creating a visualization appropriate for a specific dataset.
 
 This data details the crimes committed in the city/greater metropolitan area of Atlanta from the year 2009 to 2018.
 
-The attributes in this dataset includes: 
+The attributes of this dataset are: 
 
 - Report Number
 - Beat (In police terminology, a beat is the territory and time that a police officer patrols.)
@@ -18,7 +18,7 @@ The attributes in this dataset includes: 
 - Shift Occurrence ( a value that can be [Morning, Day, Evening])
 - UCR (Uniform Crime Reports) a code that represents the type of crime.
 - Neighborhood
-- NPU (Neighborhood planning unit)
+- NPU (Neighborhood planning unit) 25 values
 
 
 
