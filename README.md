@@ -34,11 +34,17 @@ Create data visualization sketches to investigate the following questions. For e
 
 1. What are the most dangerous neighborhoods?
 
-![chart1](/Q1.png)
+![chart1](/Q1a.png)
 
 
 2. What are the most dangerous times of a day?
+
+![chart1](/Q2.png)
+
+
 3. Are crimes increasing or decreasing since 2008?
+
+![chart1](/Q3.png)
 
 
 #### Step 3
@@ -52,7 +58,11 @@ Now suppose to have the following additional data.
 Create data visualization sketches to investigate the following questions. For each sketch describe in words what are the marks and channels that are used.
 
 4. Are immigrants more likely to get involved as a victim of a crime?
+
+![chart1](/Q4.png)
+
 5. What is the cost for the society (people of Atlanta) for the crimes that happened in 2018?
+![chart1](/Q5.png)
 
 #### Bonus
 
