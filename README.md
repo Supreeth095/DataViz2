@@ -36,21 +36,23 @@ Create data visualization sketches to investigate the following questions. For e
 
 
 If number of neighborhoods are less than 10:
-Attributes and their :
-Neighborhood Name
-Type:Categorical
-Mark: Point
-Channel: Position(Vertical)
 
-UCR (Different types of crime):
-Type:Categorical
-Mark: Area
-Channel: Color(Saturation)
+Attributes and theeir marks and channels are:
 
-Total Number of crimes in a neighborhood(Derived attribute):
-Type:Categorical
-Mark: Area
-Channel:Size (Area)
+1.Neighborhood Name
+  Type:Categorical
+  Mark: Point
+  Channel: Position(Vertical)
+
+2.UCR (Different types of crime):
+  Type:Categorical
+  Mark: Area
+   Channel: Color(Saturation)
+
+3.Total Number of crimes in a neighborhood(Derived attribute):
+  Type:Categorical
+  Mark: Area
+  Channel:Size (Area)
 
 
 
@@ -60,16 +62,16 @@ Channel:Size (Area)
 
 If number of neighborhoods are greater than 10:
 
-Neighborhood Name
-Type:Categorical
-Mark: Area
-Channel: Shape
+1.Neighborhood Name
+  Type:Categorical
+  Mark: Area
+  Channel: Shape
 
 
-Crime rate in the neighborhood:
-Type:Ordinal
-Mark: Area
-Channel: color
+2.Crime rate in the neighborhood:
+  Type:Ordinal
+  Mark: Area
+  Channel: color
 ![chart1](/Q1b.png)
 
 
