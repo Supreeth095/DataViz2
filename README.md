@@ -265,7 +265,9 @@ Define your own question and design a visualization for answering it.
 
 Attributes and their marks and channels are:
 
-1.Type:Quantitative
+1.Cost for the Society
+
+Type:Quantitative
 
 Mark: Point
 
@@ -275,7 +277,7 @@ Channel: Position (Vertical)
 
 2.Year: 
 
-Type:Categorical
+Type:Ordinal
 
 Mark:Point
 
