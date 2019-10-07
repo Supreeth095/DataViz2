@@ -225,13 +225,13 @@ Attributes and their marks and channels are:
 Attributes and their marks and channels are:
 
 
-1.Cost to Society( Derived from Amount attribute):
+1.Cost to Society(Derived from Amount attribute):
 
 Type:Quantitative
 
 Mark: Point
 
-Channel: Position (Vertical) + Size
+Channel: Position (Vertical)
 
 
 
@@ -239,14 +239,12 @@ Channel: Position (Vertical) + Size
 
 Type:Categorical
 
-Mark:Line
+Mark:point
 
 Channel: Position (Horizontal)
 
 
-
-
-3.Type of Crime:
+3.Type of Crime (derived from UCR):
 
 Type:Categorical
 
