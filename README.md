@@ -161,6 +161,10 @@ Create data visualization sketches to investigate the following questions. For e
 
 Define your own question and design a visualization for answering it.
 
+6: How is the trend of the cost per year for the people of Atlanta because of these crimes?
+
+![chart1](/Q6.png)
+
 
 ### Submission
 
