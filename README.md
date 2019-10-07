@@ -263,6 +263,25 @@ Define your own question and design a visualization for answering it.
 ![chart1](/Q6a.png)
 
 
+Attributes and their marks and channels are:
+
+1.Type:Quantitative
+
+Mark: Point
+
+Channel: Position (Vertical) 
+
+
+
+2.Year: 
+
+Type:Categorical
+
+Mark:Point
+
+Channel: Position (Horizontal)
+
+
 ### Submission
 
 Modify this README file by adding sketches of the visualization designed. Pair each image with a description of the marks and channels used.
