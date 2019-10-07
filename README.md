@@ -34,7 +34,7 @@ Create data visualization sketches to investigate the following questions. For e
 
 1. What are the most dangerous neighborhoods?
 
-![chart1](/Q1.png.jpg)
+![chart1](/Q1.png)
 
 
 2. What are the most dangerous times of a day?
