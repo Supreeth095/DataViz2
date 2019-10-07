@@ -94,9 +94,11 @@ If number of neighborhoods are greater than 10:
 
 2. What are the most dangerous times of a day?
 
-Attributes and theeir marks and channels are:
+Attributes and their marks and channels are:
 
-1.Type:Ordinal
+1.Time interval:
+  
+  Type:Ordinal
 
   Mark: Line
 
@@ -104,7 +106,7 @@ Attributes and theeir marks and channels are:
 
 2.Number of Crimes in each interval(Derived attribute):
 
-  Type:Categorical
+  Type:Quantitative
 
   Mark: Area
 
@@ -115,6 +117,24 @@ Attributes and theeir marks and channels are:
 
 
 3. Are crimes increasing or decreasing since 2008?
+
+Attributes and theeir marks and channels are:
+
+1.Year
+
+  Type:Ordinal
+
+  Mark: Point
+
+  Channel: Position(Horizontal)
+
+2.Number of Crimes in each year(Derived attribute):
+
+  Type:Quantitative
+
+  Mark: Point
+
+  Channel: Position(Vertical)
 
 ![chart1](/Q3.png)
 
