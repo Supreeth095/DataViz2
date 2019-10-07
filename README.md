@@ -216,7 +216,43 @@ Attributes and their marks and channels are:
   
 
 5. What is the cost for the society (people of Atlanta) for the crimes that happened in 2018?
+
 ![chart1](/Q5.png)
+
+
+Attributes and their marks and channels are:
+
+
+1.Cost to Society( Derived from Amount attribute):
+
+Type:Quantitative
+
+Mark: Point
+
+Channel: Position (Vertical) + Size
+
+
+
+2.Year(derived from Occur Date attribute): 
+
+Type:Categorical
+
+Mark:Line
+
+Channel: Position (Horizontal)
+
+
+
+
+3.Type of Crime:
+
+Type:Categorical
+
+Mark: Area
+
+Channel: color 
+
+
 
 #### Bonus
 
