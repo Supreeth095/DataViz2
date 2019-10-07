@@ -70,7 +70,7 @@ Attributes and theeir marks and channels are:
   
   Mark: Area
   
-  Channel:Position(Horizontal)+ Size (Area)
+  Channel:Position(Horizontal)+ Size (Area)+ color
 
 
 ----------------------------------------------------------------------------
@@ -116,7 +116,7 @@ Attributes and their marks and channels are:
   
   Type:Ordinal
 
-  Mark: Line
+  Mark: point
 
   Channel: Position(Vertical)
 
@@ -124,7 +124,7 @@ Attributes and their marks and channels are:
 
   Type:Quantitative
 
-  Mark: Area
+  Mark: point
 
   Channel: Position(Horizontal)+ Size(Length)
 
@@ -150,7 +150,7 @@ Attributes and theeir marks and channels are:
 
   Mark: Point
 
-  Channel: Position(Vertical)
+  Channel: Position(Vertical) + Lines
 
 
 
@@ -202,7 +202,7 @@ Attributes and their marks and channels are:
 
   Mark: point
 
-  Channel: Size(Area) + color 
+  Channel: Position(Vertical) + color 
 
 
 
@@ -213,7 +213,7 @@ Attributes and their marks and channels are:
 
   Mark: point
 
-  Channel: Size(Area) + color 
+  Channel: Position(Vertical) + color 
   
   
 
