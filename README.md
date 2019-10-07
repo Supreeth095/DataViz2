@@ -34,7 +34,13 @@ Create data visualization sketches to investigate the following questions. For e
 
 1. What are the most dangerous neighborhoods?
 
+If number of neighborhoods are less than 10:
+
 ![chart1](/Q1a.png)
+
+If number of neighbor hoods are greater than 10:
+![chart1](/Q1b.png)
+
 
 
 2. What are the most dangerous times of a day?
