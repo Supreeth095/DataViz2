@@ -35,6 +35,15 @@ Create data visualization sketches to investigate the following questions. For e
 1. What are the most dangerous neighborhoods?
 
 
+
+If number of neighborhoods are less than 10:
+
+
+
+
+![chart1](/Q1a.png)
+
+
 If number of neighborhoods are less than 10:
 
 Attributes and theeir marks and channels are:
@@ -64,8 +73,11 @@ Attributes and theeir marks and channels are:
 
 
 
+  If number of neighborhoods are greater than 10:
 
-![chart1](/Q1a.png)
+
+  
+![chart1](/Q1b.png)
 
 
 If number of neighborhoods are greater than 10:
@@ -86,13 +98,15 @@ If number of neighborhoods are greater than 10:
   Mark: Area
   
   Channel: color
-  
-  
-![chart1](/Q1b.png)
 
 
 
 2. What are the most dangerous times of a day?
+
+
+
+
+![chart1](/Q2.png)
 
 Attributes and their marks and channels are:
 
@@ -113,10 +127,10 @@ Attributes and their marks and channels are:
   Channel: Size(Length)
 
 
-![chart1](/Q2.png)
-
-
 3. Are crimes increasing or decreasing since 2008?
+
+
+![chart1](/Q3.png)
 
 Attributes and theeir marks and channels are:
 
@@ -136,7 +150,8 @@ Attributes and theeir marks and channels are:
 
   Channel: Position(Vertical)
 
-![chart1](/Q3.png)
+
+
 
 
 #### Step 3
