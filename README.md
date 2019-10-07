@@ -169,6 +169,52 @@ Create data visualization sketches to investigate the following questions. For e
 
 ![chart1](/Q4.png)
 
+
+
+
+
+Attributes and their marks and channels are:
+
+1.Immigration Status
+
+  Type:Categorical
+  
+  Mark: Line
+
+  Channel: Position(Horizontal)
+
+
+2.Number of people:
+
+  Type:Quantitative
+
+  Mark: point
+
+  Channel: Position(Vertical)
+
+
+
+3.Number of Victims for each Immigration Status : (Derived attribute)
+
+  Type:Quantitative
+
+  Mark: point
+
+  Channel: Size(Area) + color 
+
+
+
+
+4.Number of Non Victims for each Immigration Status:(Derived attribute)
+
+  Type:Quantitative
+
+  Mark: point
+
+  Channel: Size(Area) + color 
+  
+  
+
 5. What is the cost for the society (people of Atlanta) for the crimes that happened in 2018?
 ![chart1](/Q5.png)
 
