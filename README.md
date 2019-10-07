@@ -126,7 +126,7 @@ Attributes and their marks and channels are:
 
   Mark: Area
 
-  Channel: Size(Length)
+  Channel: Position(Horizontal)+ Size(Length)
 
 
 3. Are crimes increasing or decreasing since 2008?
