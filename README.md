@@ -33,6 +33,8 @@ Make sure you have a clear understanding of what each attribute means and what v
 Create data visualization sketches to investigate the following questions. For each sketch describe in words what are the marks and channels that are used.
 
 1. What are the most dangerous neighborhoods?
+https://github.com/Clemson-CPSC8040/assignment-2-Supreeth095/blob/master/Q1.png
+
 2. What are the most dangerous times of a day?
 3. Are crimes increasing or decreasing since 2008?
 
