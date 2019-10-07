@@ -94,6 +94,23 @@ If number of neighborhoods are greater than 10:
 
 2. What are the most dangerous times of a day?
 
+Attributes and theeir marks and channels are:
+
+1.Type:Ordinal
+
+  Mark: Line
+
+  Channel: Position(Vertical)
+
+2.Number of Crimes in each interval(Derived attribute):
+
+  Type:Categorical
+
+  Mark: Area
+
+  Channel: Size(Length)
+
+
 ![chart1](/Q2.png)
 
 
