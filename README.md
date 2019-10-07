@@ -40,14 +40,22 @@ If number of neighborhoods are less than 10:
 Attributes and theeir marks and channels are:
 
 1.Neighborhood Name
+
   Type:Categorical
+  
   Mark: Point
+  
   Channel: Position(Vertical)
+  
 
 2.UCR (Different types of crime):
+
   Type:Categorical
+  
   Mark: Area
+  
    Channel: Color(Saturation)
+   
 
 3.Total Number of crimes in a neighborhood(Derived attribute):
   Type:Categorical
@@ -63,15 +71,23 @@ Attributes and theeir marks and channels are:
 If number of neighborhoods are greater than 10:
 
 1.Neighborhood Name
+
   Type:Categorical
+  
   Mark: Area
+  
   Channel: Shape
 
 
 2.Crime rate in the neighborhood:
+
   Type:Ordinal
+  
   Mark: Area
+  
   Channel: color
+  
+  
 ![chart1](/Q1b.png)
 
 
